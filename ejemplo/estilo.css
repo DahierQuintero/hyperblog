@@ -1,0 +1,43 @@
+head{
+    
+    color: black;
+}
+
+body{
+    background-image: url(https://hitechcentury.com/wp-content/uploads/2022/02/Galaxy-S22-Ultra-white.jpg);
+    color: rgb(11, 8, 8);
+}
+h1 {
+    text-align: center;
+    height: 26mm ;
+    color:red;
+    border-style: double;
+    border-color: rgb(170, 170, 237);
+    border-radius: 5px;
+}
+p {
+    height: 16mm ;
+    color: black;
+}
+img {
+    height: 100mm;
+    border-radius: 10px;
+    border-style: ridge;
+    border-color: black;
+}
+h2 {
+    text-align: center;
+    height: 16mm ;
+    color:red;
+    border-style: double;
+    border-color: rgb(170, 170, 237);
+    border-radius: 5px;
+}
+h3 {
+    text-align: center;
+    height: 16mm ;
+    color:red;
+    border-style: double;
+    border-color: rgb(170, 170, 237);
+    border-radius: 5px;
+}
